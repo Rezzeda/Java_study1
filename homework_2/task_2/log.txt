@@ -1,0 +1,10 @@
+февр. 13, 2023 8:24:03 PM homework_2.task_2.task_2 getLog
+INFO: Элемент 7 перемещен на позицию 2
+февр. 13, 2023 8:24:03 PM homework_2.task_2.task_2 getLog
+INFO: Элемент 5 перемещен на позицию 3
+февр. 13, 2023 8:24:03 PM homework_2.task_2.task_2 getLog
+INFO: Элемент 7 перемещен на позицию 3
+февр. 13, 2023 8:24:03 PM homework_2.task_2.task_2 getLog
+INFO: Элемент 5 перемещен на позицию 4
+февр. 13, 2023 8:24:03 PM homework_2.task_2.task_2 getLog
+INFO: Элемент 7 перемещен на позицию 4
